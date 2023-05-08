@@ -1,0 +1,38 @@
+article{
+    flex: 70%;
+    margin: 0px 5px 15px 10px;
+   
+    
+}
+.sectionWork{
+    margin: 15px;
+    padding: 15px;
+    height: 500px;
+    background-color: #fff;
+   
+}
+
+.iconearticle{
+    display: flex;
+}
+
+h4{
+    color: #428a54;
+    margin: 15px;
+}
+.curreent{
+    background-color: #428a54;
+    color: #fff;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.Education{
+    margin: 15px;
+    height: 500px;
+    padding: 15px;
+    background-color: #fff;
+}
+div{
+    margin: 10px;
+}
